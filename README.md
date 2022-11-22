@@ -1,4 +1,4 @@
-# Statystyka
+# Statystyka- Pull 
 
 Napisz program, który odczyta sekwencje liczb rzeczywistych zapisanych w pliku tekstowym i wyznaczy sumę, wartość średnią wartość minimalną i wartość maksymalną. 
 
